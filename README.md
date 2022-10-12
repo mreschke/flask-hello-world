@@ -30,3 +30,6 @@ To serve directly from the venv without activate/deactive, simply run
 ```
 
 
+## How to Terraform to AWS
+
+That is the challenge, make it so!
